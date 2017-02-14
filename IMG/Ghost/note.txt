@@ -1,0 +1,3 @@
+Ghosts' sprites used in the game.
+
+The pink color in the bitmap image (rgb: 255, 0, 255), in Allegro means fully transparency.
